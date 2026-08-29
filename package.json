@@ -1,0 +1,9 @@
+{
+  "name": "network-operations-platform",
+  "version": "1.0.0",
+  "description": "Network Management System",
+  "scripts": {
+    "start": "docker-compose up -d",
+    "build": "docker-compose build"
+  }
+}
